@@ -1,4 +1,5 @@
-P:
+P1:
+
 A problem:
 Given T Test cases and in each test case a number N. prints it factorial for each test cases %M where M = 10^9 + 7
 contr: 1<=T<=10^5
@@ -46,3 +47,10 @@ while(t--){
 cout<<fact[n]<<endl;
 }
 }
+
+// O(T) + O(N) = 10^5 = wil run in 1 sec.
+
+
+
+
+
